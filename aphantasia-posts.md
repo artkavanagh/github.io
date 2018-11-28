@@ -7,7 +7,6 @@ The posts listed below don’t reflect a consistent development in my thinking o
 These are the pieces I’ve posted on Medium since April 2018 in reverse chronological order:
 
 - [Aphantasia, sex and gender](https://medium.com/@artkavanagh/aphantasia-sex-and-gender12166b4364ea)
-
 - [Aphantasia and executive function](https://medium.com/@artkavanagh/aphantasia-and-executive-function-c7a5cb05162c)
 - [Aphantasia can look a bit like ADHD](https://medium.com/@artkavanagh/aphantasia-can-look-a-bit-like-adhd-e81dc7e0e259)
 - [Gender identity and aphantasia](https://medium.com/@artkavanagh/gender-identity-and-aphantasia-e0c93850ffb1)
