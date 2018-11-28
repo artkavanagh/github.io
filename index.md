@@ -7,14 +7,12 @@ Since January 2017, I’ve been posting most of my writing on [Medium](https://m
 ), has been read all the way through by only one of its 27 visitors.
 
 
-
 Apart from fiction and criticism, I’ve written an accidental series on the subject of aphantasia, since persuading myself in March or April of this year that I have that condition. (I’m using “condition” in the widest conceivable sense, as equivalent to “state”, and not to imply that aphantasia is a medical condition or impairment.)
-
 
 
 ### My Medium posts about aphantasia
 
-I&apos;ve posted a number of pieces on Medium since April 2018 on the subject of aphantasia. At the time of writing there are about 10 posts, forming an accidental series. Here is [the list of posts so far](https://www.artkavanagh.ie/aphantasia-posts) &mdash; I&apos; update if an when I add more.
+I&apos;ve posted a number of pieces on Medium since April 2018 on the subject of aphantasia. At the time of writing there are about 10 posts, forming an accidental series. Here is [the list of posts so far](https://www.artkavanagh.ie/aphantasia-posts) &mdash; I&apos;ll update it if and when I add more.
 
 ### Some of my short fiction on Medium
 
