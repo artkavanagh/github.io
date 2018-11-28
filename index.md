@@ -14,21 +14,7 @@ Apart from fiction and criticism, I’ve written an accidental series on the sub
 
 ### My Medium posts about aphantasia
 
-These are the pieces I’ve posted on Medium since April 2018 in reverse chronological order:
-
-- [Aphantasia and executive function](https://medium.com/@artkavanagh/aphantasia-and-executive-function-c7a5cb05162c)
-- [Aphantasia can look a bit like ADHD](https://medium.com/@artkavanagh/aphantasia-can-look-a-bit-like-adhd-e81dc7e0e259)
-- [Gender identity and aphantasia](https://medium.com/@artkavanagh/gender-identity-and-aphantasia-e0c93850ffb1)
-- [Anxiety, identity and self-image](https://medium.com/@artkavanagh/anxiety-identity-and-self-image-40288046b46b)
-- [Might aphantasia be learned behaviour?](https://medium.com/@artkavanagh/might-aphantasia-be-learned-behaviour-47dc4c72026)
-- [There is no Plan A](https://medium.com/@artkavanagh/there-is-no-plan-a-e969c8f9587)
-- [Aphantasia, memory and self-image](https://medium.com/@artkavanagh/aphantasia-memory-and-self-image-2db66c17c5f3)
-- [Aphantasia is not a disability](https://medium.com/@artkavanagh/aphantasia-is-not-a-disability-511989fa1e71)
-- [Straight &ldquo;A&rdquo;s](https://medium.com/@artkavanagh/straight-a-s-a2b0b3bc8425)
-
-Finally, there’s a post about autobiographical or episodic memory, and how I dealt with that subject in a short story before I knew I had aphantasia:
-
-> [Deficient episodic memory in my short story &ldquo;The Bourne Indeterminacy&rdquo;](https://medium.com/@artkavanagh/deficient-episodic-memory-in-my-short-story-the-bourne-indeterminacy-c48404d656c4)
+I&apos;ve posted a number of pieces on Medium since April 2018 on the subject of aphantasia. At the time of writing there are about 10 posts, forming an accidental series. Here is [the list of posts so far](https://www.artkavanagh.ie/aphantasia-posts) &mdash; I&apos; update if an when I add more.
 
 ### Some of my short fiction on Medium
 
