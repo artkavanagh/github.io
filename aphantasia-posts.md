@@ -1,4 +1,4 @@
-### My Medium posts about aphantasia
+# My Medium posts about aphantasia
 
 In April 2018, I started to write about the subject of aphantasia. At the time, I thought the condition was an entertaining quirk, something I was amused to have unexpectedly discovered about myself, with few practical implications. The more I thought and wrote about it, though, the more it seemed to me that the absence of a visual imagination has had a profound effect on the way I perceive and relate to the world.
 
