@@ -24,7 +24,7 @@ Once they were clear of Clooneaden, she half-turned in her seat to look at him. 
 
 She didn’t answer that, but nodded. She felt that he was aware of her nod, though his attention was fully taken up in navigating the narrow road.
 
-She rubbed her thumb over the pin. The road was deserted, they were far from anyClhabitation. Now was the moment, if she were going to do it at all. There would never be a better time. Is this what I want? she asked herself yet again. If not, what was the alternative? And, if it was, what was her motive? These were questions she’d gone over obsessively hundreds of times. She only ever came up with one answer and she knew it must be the right one, though she never felt that it was completely convincing.
+She rubbed her thumb over the pin. The road was deserted, they were far from any habitation. Now was the moment, if she were going to do it at all. There would never be a better time. Is this what I want? she asked herself yet again. If not, what was the alternative? And, if it was, what was her motive? These were questions she’d gone over obsessively hundreds of times. She only ever came up with one answer and she knew it must be the right one, though she never felt that it was completely convincing.
 
 She didn’t feel angry at Timothy, hadn’t for some years, apart from that brief flash of incandescence in the hours after she’d been given her diagnosis. There had been a moment of fury that, had it not been for Timothy’s embezzlement all those years earlier, she might have had the money to get off the waiting list. To jump the queue. Once, she would have fiercely disapproved of that idea. She still disapproved, but not fiercely. She felt nothing fiercely, just a heaviness she longed to be rid of.
 
