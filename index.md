@@ -17,3 +17,18 @@ I&apos;ve posted a number of pieces on Medium since April 2018 on the subject of
 ### Some of my short fiction on Medium
 
 I&apos;ll be adding links to most of my fiction on Medium in the next few days. In the meantime, here&apos;s one to the first short story I finished, &ldquo;[Inheritance](https://medium.com/@artkavanagh/inheritance-cb80a3e59734)&rdquo;. I still think it&apos;s my best. Finally, this the shortest one I've written so far. I deleted it from Medium at the end of last year, so I'm posting it on this site. It&apos;s called &ldquo;[Closure](https://www.artkavanagh.ie/Closure)&rdquo;
+
+### Literary criticism
+
+I’m describing this section as “Literary criticism” for want of a better term. It’s intended to include links to my writing about other writing — in particular fiction, poetry and (conceivably, eventually) drama. At the moment, I’m alternating between two projects. The first is to turn my doctoral thesis (“Andrew Marvell’s ambivalence about justice”) into something more widely accessible; the second to examine how some authors have been able to maintain interest in the same or connected characters over a series of crime fiction novels.
+
+[The paradoxical ambition of Andrew Marvell’s <cite>Third Advice to a Painter</cite>](https://www.artkavanagh.ie/Paradoxical-ambition/)  
+This is an argument about one of Marvell’s satires which is really a by-product of my thesis.
+
+[Who really killed The General’s Daughter?](https://medium.com/p/6d07a25b1e19/)  
+A discussion of the resolution of the plot of Nelson DeMille’s 1992 novel <cite>The General’s Daughter</cite>.
+
+[Robert Galbraith’s Cormoran Strike books](https://medium.com/p/7bd41682fbdc/)  
+This post needs to be updated to take account of <cite>Lethal White</cite>. That will have to wait until I’ve read it.  
+
+
