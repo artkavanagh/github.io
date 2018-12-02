@@ -16,7 +16,7 @@ I&apos;ve posted a number of pieces on Medium since April 2018 on the subject of
 
 ### Some of my short fiction on Medium
 
-I&apos;ll be adding links to most of my fiction on Medium in the next few days. In the meantime, here&apos;s one to the first short story I finished, &ldquo;[Inheritance](https://medium.com/@artkavanagh/inheritance-cb80a3e59734)&rdquo;. I still think it&apos;s my best. Finally, this the shortest one I've written so far. I deleted it from Medium at the end of last year, so I'm posting it on this site. It&apos;s called &ldquo;[Closure](https://www.artkavanagh.ie/Closure)&rdquo;
+I&apos;ll be adding links to most of my fiction on Medium in the next few days. In the meantime, here&apos;s one to the first short story I finished, &ldquo;[Inheritance](https://medium.com/@artkavanagh/inheritance-cb80a3e59734)&rdquo;. I still think it&apos;s my best. Finally, this the shortest one I've written so far. I deleted it from Medium at the end of last year, so I'm posting it on this site. It&apos;s called &ldquo;[Closure](https://www.artkavanagh.ie/Closure)&rdquo;.
 
 ### Literary criticism
 
