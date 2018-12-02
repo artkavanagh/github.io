@@ -1,4 +1,4 @@
-# The paradoxical ambition of Andrew Marvell’s Third Advice to a Painter
+# The paradoxical ambition of Andrew Marvell’s <cite>Third Advice to a Painter</cite>
 
 ## The satiric practice of a poet better known for his lyric verse
 
