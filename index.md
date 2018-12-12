@@ -22,7 +22,7 @@ I&apos;ll be adding links to most of my fiction on Medium in the next few days. 
 
 I’m describing this section as “Literary criticism” for want of a better term. It’s intended to include links to my writing about other writing — in particular fiction, poetry and (conceivably, eventually) drama. At the moment, I’m alternating between two projects. The first is to turn my doctoral thesis (“Andrew Marvell’s ambivalence about justice”) into something more widely accessible; the second to examine how some authors have been able to maintain interest in the same or connected characters over a series of crime fiction novels.
 
-[The paradoxical ambition of Andrew Marvell’s <cite>Third Advice to a Painter</cite>](https://www.artkavanagh.ie/Paradoxical-ambition/)  
+[The paradoxical ambition of Andrew Marvell’s <cite>Third Advice to a Painter</cite>](https://www.artkavanagh.ie/Paradoxical-ambition)  
 This is an argument about one of Marvell’s satires which is really a by-product of my thesis.
 
 [Who really killed The General’s Daughter?](https://medium.com/p/6d07a25b1e19/)  
