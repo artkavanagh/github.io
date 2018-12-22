@@ -14,6 +14,11 @@ Apart from fiction and criticism, I’ve written an accidental series on the sub
 
 I&apos;ll be adding links to most of my fiction on Medium in the next few days. In the meantime, here&apos;s one to the first short story I finished, &ldquo;[Inheritance](https://medium.com/@artkavanagh/inheritance-cb80a3e59734)&rdquo;. I still think it&apos;s my best. Finally, this the shortest one I've written so far. I deleted it from Medium at the end of last year, so I'm posting it on this site. It&apos;s called &ldquo;[Closure](https://www.artkavanagh.ie/Closure)&rdquo;.
 
+### Recent post
+
+[HTML and Markdown](https://www.artkavanagh.ie/HTML-Markdown)   
+Though I think Markdown is (from a writer&apos;s point of view) elegant and enjoyable to use, it's also frustrating and a reminder of a missed opportunity.
+
 ### Literary criticism
 
 I’m describing this section as “Literary criticism” for want of a better term. It’s intended to include links to my writing about other writing — in particular fiction, poetry and (conceivably, eventually) drama. At the moment, I’m alternating between two projects. The first is to turn my doctoral thesis (“Andrew Marvell’s ambivalence about justice”) into something more widely accessible; the second to examine how some authors have been able to maintain interest in the same or connected characters over a series of crime fiction novels.
