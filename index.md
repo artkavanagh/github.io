@@ -16,6 +16,9 @@ I&apos;ll be adding links to most of my fiction on Medium in the next few days. 
 
 ### Recent posts
 
+[Short fiction on Medium &mdash; recommendations](https://www.artkavanagh.ie/short-fiction-medium)   
+Though I&apos;ve ended my email newsletter, &ldquo;Recommended short fiction on Medium&rdquo; after a little over a year, I&apos;m still very fond of the title and I want to continue to use it.
+
 [Could subscription reading put paid to the ebook](https://www.artkavanagh.ie/ebooks-subscription)?  
 Writers, &ldquo;aspiring&rdquo; and the other kind, would do better to look to subscription services than to the Kindle ecosystem if they want to make money from their writing. At the moment the closest thing to a subscription publishing model that&apos;s open to self-publishers and isn&apos;t (like Kindle Unlimited) under Amazon&apos;s control is Medium.
 
@@ -27,7 +30,7 @@ Though I think Markdown is (from a writer&apos;s point of view) elegant and enjo
 I’m describing this section as “Literary criticism” for want of a better term. It’s intended to include links to my writing about other writing — in particular fiction, poetry and (conceivably, eventually) drama. At the moment, I’m alternating between two projects. The first is to turn my doctoral thesis (“Andrew Marvell’s ambivalence about justice”) into something more widely accessible; the second to examine how some authors have been able to maintain interest in the same or connected characters over a series of crime fiction novels.
 
 [The paradoxical ambition of Andrew Marvell’s <cite>Third Advice to a Painter</cite>](https://www.artkavanagh.ie/Paradoxical-ambition)  
-This is an argument about one of Marvell’s satires which is really a by-product of my thesis.
+This is an argument (really a by-product of my thesis) about one of Marvell’s satires.
 
 [Who really killed The General’s Daughter?](https://medium.com/p/6d07a25b1e19/)  
 A discussion of the resolution of the plot of Nelson DeMille’s 1992 novel <cite>The General’s Daughter</cite>.
