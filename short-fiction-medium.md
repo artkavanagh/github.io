@@ -12,7 +12,7 @@ You can find previous recommendations (these stories don’t go out of date) in 
 
 [Recommended short fiction on Medium](https://medium.com/p/620892c22019)   
 [Recommended short fiction on Medium–2](https://medium.com/p/677f60772439)  
-[Recommended short fiction on Medium–3](https://medium.com/p/1f879f184c9f
+[Recommended short fiction on Medium–3](https://medium.com/p/1f879f184c9f)
 
 The authors who had a second story recommended in the newsletter are listed on these pages: 
 
