@@ -14,7 +14,10 @@ Apart from fiction and criticism, I’ve written an accidental series on the sub
 
 I&apos;ll be adding links to most of my fiction on Medium in the next few days. In the meantime, here&apos;s one to the first short story I finished, &ldquo;[Inheritance](https://medium.com/@artkavanagh/inheritance-cb80a3e59734)&rdquo;. I still think it&apos;s my best. Finally, this the shortest one I've written so far. I deleted it from Medium at the end of last year, so I'm posting it on this site. It&apos;s called &ldquo;[Closure](https://www.artkavanagh.ie/Closure)&rdquo;.
 
-### Recent post
+### Recent posts
+
+[Could subscription reading put paid to the ebook](https://www.artkavanagh.ie/ebooks-subscription)?  
+Writers, &ldquo;aspiring&rdquo; and the other kind, would do better to look to subscription services than to the Kindle ecosystem if they want to make money from their writing. At the moment the closest thing to a subscription publishing model that&apos;s open to self-publishers and isn&apos;t (like Kindle Unlimited) under Amazon&apos;s control is Medium.
 
 [HTML and Markdown](https://www.artkavanagh.ie/HTML-Markdown)   
 Though I think Markdown is (from a writer&apos;s point of view) elegant and enjoyable to use, it's also frustrating and a reminder of a missed opportunity.
