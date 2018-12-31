@@ -12,7 +12,7 @@ Apart from fiction and criticism, I’ve written an accidental series on the sub
 
 ### My fiction on Medium
 
-I&apos;ve made [a list of stories by me on Medium](https://www.artkavanagh.ie/fiction-list). It includes several short stories, a novella and a novel all of which are free to read. As a bonus, here is the shortest story I&apos;ve written so far, &ldquo;[Closure](https://www.artkavanagh.ie/Closure)&rdquo;. It comes in at about 750 words. It was originally posted on Medium but I deleted it last year and now I&apos;ve reposted it here.
+I&apos;ve made [a list of my own stories on Medium](https://www.artkavanagh.ie/fiction-list). It includes several short stories, a novella and a novel, all of which are free to read. As a bonus, here is the shortest story I&apos;ve written so far, &ldquo;[Closure](https://www.artkavanagh.ie/Closure)&rdquo;. It comes in at about 750 words. It was originally posted on Medium but I deleted it last year and now I&apos;ve reposted it here.
 
 ### Recent posts
 
