@@ -8,11 +8,11 @@ Since January 2017, I’ve been posting most of my writing on [Medium](https://m
 
 ### My Medium posts about aphantasia
 
-Apart from fiction and criticism, I’ve written an accidental series on the subject of aphantasia, since persuading myself in March or April of this year that I have that condition. (I’m using “condition” in the widest conceivable sense, as equivalent to “state”, and not to imply that aphantasia is a medical condition or impairment.) Here is [the list of posts so far](https://www.artkavanagh.ie/aphantasia-posts) &mdash; I&apos;ll update it if and when I add more.
+Apart from fiction and criticism, I’ve written an accidental series on the subject of aphantasia, since recognizing in March or April of this year that I have that condition. (I’m using “condition” in the widest conceivable sense, as equivalent to “state”, and not to imply that aphantasia is a medical condition or impairment.) Here is [the list of posts so far](https://www.artkavanagh.ie/aphantasia-posts) &mdash; I&apos;ll update it if and when I add more.
 
-### Some of my short fiction on Medium
+### My fiction on Medium
 
-I&apos;ll be adding links to most of my fiction on Medium in the next few days. In the meantime, here&apos;s one to the first short story I finished, &ldquo;[Inheritance](https://medium.com/@artkavanagh/inheritance-cb80a3e59734)&rdquo;. I still think it&apos;s my best. Finally, this the shortest one I've written so far. I deleted it from Medium at the end of last year, so I'm posting it on this site. It&apos;s called &ldquo;[Closure](https://www.artkavanagh.ie/Closure)&rdquo;.
+I&apos;ve made [a list of stories by me on Medium](https://www.artkavanagh.ie/fiction-list). It includes several short stories, a novella and a novel all of which are free to read. As a bonus, here is the shortest story I&apos;ve written so far, &ldquo;[Closure](https://www.artkavanagh.ie/Closure)&rdquo;. It comes in at about 750 words. It was originally posted on Medium but I deleted it last year and now I&apos;ve reposted it here.
 
 ### Recent posts
 
