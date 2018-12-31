@@ -2,7 +2,7 @@
 
 ## A short story originally published as by Anders Kermod
 
-_The first two short stories I wrote were each around the 4,000 word mark in length. This, which runs about 750 words, was an effort to write a much shorter tale and so attract more readers. That worked, to an extent but to me the story feels a bit cramped and inconsequential. See what you think._
+_The first two short stories I wrote were each around the 4,000 word mark in length. This, which runs about 750 words, was an effort to write a much shorter tale and so attract more readers. That worked, to an extent, but to me the story feels a bit cramped and inconsequential. See what you think._
 
 For obvious reasons, she hadn’t been able to do a practice run. Because of that, she still wasn’t sure, even as she reached into her handbag, if she’d have enough room to be able to pull the pin from the grenade. Timothy had been silent since he’d picked her up—moody, as if he had some sort of premonition. But she told herself it almost certainly wasn’t that. How could he suspect? More likely, he was subdued in the face of her diagnosis, which she’d told him about over the phone. She’d had no choice: without some compelling reason, he wouldn’t have come.
 
