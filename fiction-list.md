@@ -1,7 +1,5 @@
 # My fiction on Medium
 
-![Bookshelves](https://www.artkavanagh.ie/IMG_0227.jpg)
-
 This is a list of all the fiction of mine that’s now available (free to read) on Medium.
 
 ## Short stories
