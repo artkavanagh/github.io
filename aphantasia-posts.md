@@ -6,6 +6,7 @@ The posts listed below don’t reflect a consistent development in my thinking o
 
 These are the pieces I’ve posted on Medium since April 2018 in reverse chronological order:
 
+- [The five stages of coming to terms with aphantasia](https://medium.com/@artkavanagh/the-five-stages-of-coming-to-terms-with-aphantasia-fe36947af410)
 - [Motivation, productivity and aphantasia](https://medium.com/@artkavanagh/motivation-productivity-and-aphantasia-5f8642ea7c34)
 - [Aphantasia, sex and gender](https://medium.com/@artkavanagh/aphantasia-sex-and-gender12166b4364ea)
 - [Aphantasia and executive function](https://medium.com/@artkavanagh/aphantasia-and-executive-function-c7a5cb05162c)
