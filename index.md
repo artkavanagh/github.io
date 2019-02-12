@@ -3,8 +3,7 @@
 ## Welcome
 
 Since January 2017, I’ve been posting most of my writing on [Medium](https://medium.com/@artkavanagh). During that time, I’ve been giving priority to fiction, particularly shorter forms. I’ve also posted a couple of pieces of what I’ve been loosely calling literary criticism, though maybe just "criticism" would be a more accurate term. [Two of those](https://medium.com/@artkavanagh/robert-galbraiths-cormoran-strike-books-7bd41682fbdc
-) have been among [my most viewed](https://medium.com/@artkavanagh/who-really-killed-the-generals-daughter-6d07a25b1e19) (and read) posts on the site, while the third, a rather specialist [discussion of one of Andrew Marvell’s satirical poems](https://medium.com/@artkavanagh/the-paradoxical-ambition-of-andrew-marvells-third-advice-to-a-painter-1cdfae1018d2
-), has been read all the way through by only one of its 27 visitors.
+) have been among [my most viewed](https://medium.com/@artkavanagh/who-really-killed-the-generals-daughter-6d07a25b1e19) (and read) posts on the site, while the third, a rather specialist discussion of one of Andrew Marvell’s satirical poems, had been read all the way through by only one of its 27 visitors before [I moved it from Medium to this site](https://www.artkavanagh.ie/Paradoxical-ambition).
 
 ### My Medium posts about aphantasia
 
