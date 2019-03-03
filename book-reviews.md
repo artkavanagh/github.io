@@ -45,4 +45,4 @@ I was very favourably surprised by Liz Nugent’s second novel. It’s not a pro
 ![Lying in Wait by Liz Nugent](LizNugent.JPG)
 
 [Debbi Mack, _The Planck Factor_](http://www.debbimack.com/project/the-planck-factor/)   
-- [ ] Given the title and the blurb, I was expecting something wilder and weirder, and some concepts that would challenge my idea of reality, but this turned out to be a disappointingly ordinary thriller. On the plus side, there’s a rather neat novel-within-a-novel structure with events in the outer story seeming to echo those in the inner one.
+Given the title and the blurb, I was expecting something wilder and weirder, and some concepts that would challenge my idea of reality, but this turned out to be a disappointingly ordinary thriller. On the plus side, there’s a rather neat novel-within-a-novel structure with events in the outer story seeming to echo those in the inner one.
