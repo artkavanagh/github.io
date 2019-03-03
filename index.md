@@ -39,6 +39,6 @@ This post needs to be updated to take account of <cite>Lethal White</cite>. That
 
 ### Book reviews
 
-I’m about to start [moving those book reviews that I want to keep from Goodreads to this site](https://www.artkavanagh.ie/book-reviews). over the next few months.
+I’m about to start [moving those book reviews that I want to keep from Goodreads to this site](https://www.artkavanagh.ie/book-reviews) over the next few months.
 
 
