@@ -35,6 +35,10 @@ This is an argument (really a by-product of my thesis) about one of Marvell’s 
 A discussion of the resolution of the plot of Nelson DeMille’s 1992 novel <cite>The General’s Daughter</cite>.
 
 [Robert Galbraith’s Cormoran Strike books](https://medium.com/p/7bd41682fbdc/)  
-This post needs to be updated to take account of <cite>Lethal White</cite>. That will have to wait until I’ve read it.  
+This post needs to be updated to take account of <cite>Lethal White</cite>. That will have to wait until I’ve read it.
+
+### Book reviews
+
+I’m about to start [moving those book reviews that I want to keep from Goodreads to this site](https://www.artkavanagh.ie/book-reviews). over the next few months.
 
 
