@@ -17,7 +17,7 @@ Some of the Goodreads reviews suggest that the prologue gives too much away. I c
 
 [Gianrico Carofiglio, _Temporary Perfections_](https://www.bitterlemonpress.com/products/temporary-perfections)   
 The second book I’ve read from this series, which I seem to be navigating backwards, having started with the latest. I needed to adjust to the unspectacular quality of the plots: they aim not so much for surprise as at confirmating of your worst suspicions—and are not afraid of cliché. This one, in particular, reminded me of Simenon (well, actually of films based on Simenon, whose books I haven’t read for a very long time). The characters are fascinating, compelling and credibly flawed. They more than make up for the underpowered plot.   
-![Temporary Perfections by Gianrico Carofiglio](GianricoCarofiglio.JPG)
+![Temporary Perfections by Gianrico Carofiglio](GianricoCarofiglio.jpg)
 
 [Gianrico Carofiglio, _A Fine Line_](https://www.bitterlemonpress.com/products/a-fine-line)   
 I found this a bit disappointing (particularly given Scott Turow’s blurb!) though the first-person narrator and several other characters are really quite appealing. Advocate Guerrieri has no difficulty representing guilty defendants: after all, they’re entitled to a lawyer, like anyone else. But do those rules apply when his client, a judge facing trial for accepting bribes, is corrupting the justice system from the core? I think maybe I should give this a second chance but I’m not in any rush.
