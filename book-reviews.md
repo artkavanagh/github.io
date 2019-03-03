@@ -8,7 +8,7 @@ I’d made previous attempts to free myself from the site’s clutches. Some tim
 
 Another Goodreads alternative I tried was [Litsy](https://www.litsy.com), an Instagramalike, photocentric app for bookworms. One thing I liked about Litsy is that it limits book reviews to around 450 characters. (I have to admit to a tendency to prolixity, given enough rope.) Unfortunately Litsy is a strictly iOS/Android app and, after a few months, I got rid of my Android phone. I’d thought I could continue to use the app on the iPad but it looks wrong somehow, too diffuse and out of proportion on the larger screen.
 
-But now everything has changed. I have my own domain name and personal website. Surely that’s the right location for my reviews? So, over the next few months, I’ll copy those Goodreads reviews that I want to keep and put them on this site instead. I’ve downloaded my data from Google+ and I’ll start with the reviews that I crossposted there.
+But now everything has changed. I have my own domain name and personal website. Surely that’s the right location for my reviews? So, over the next few months, I’ll copy [those Goodreads reviews that I want to keep](https://www.goodreads.com/review/list/49159880) and put them on this site instead. I’ve downloaded my data from Google+ and I’ll start with the reviews that I crossposted there.
 
 In the meantime, I’ve copied my Litsy reviews (which date from between roughly April and July 2018) and here they are:
 
