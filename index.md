@@ -15,7 +15,8 @@ I&apos;ve made [a list of my own stories on Medium](https://www.artkavanagh.ie/f
 
 ### Recent posts
 
-[The phone&apos;s not smart so you might have to be](https://www.artkavanagh.ie/phone-smarts)
+[The phone&apos;s not smart so you might have to be](https://www.artkavanagh.ie/phone-smarts)   
+What&apos;s the ideal smartphone for someone who doesn&apos;t like phones?
 
 [Short fiction on Medium &mdash; recommendations](https://www.artkavanagh.ie/short-fiction-medium)   
 Though I&apos;ve ended my email newsletter, &ldquo;Recommended short fiction on Medium&rdquo; after a little over a year, I&apos;m still very fond of the title and I want to continue to use it.
