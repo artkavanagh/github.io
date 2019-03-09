@@ -1,10 +1,10 @@
 * {
-        font-family: Optima, "Myriad Pro", "Trebuchet MS", "Fira Sans", sans-serif;
+        font-family: "Optima", "Myriad Pro", "Trebuchet MS", "Fira Sans", sans-serif;
       }
       html, body {
         margin: auto;
         padding: 0;
-        Color: Yellow ;
+        color: "Yellow" ;
         background-color: #0892d0 ;
         max-width: 632px ;
       }
