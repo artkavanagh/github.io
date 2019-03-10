@@ -17,11 +17,11 @@ html, body {
       }
       p.intro {
 	      font-style: italic ;
-	      font-size: 16px ;
+	      font-size: 18px ;
 	      }
       blockquote {
 	      margin-bottom: 32px ;
-	      font-size: 16px;
+	      font-size: 18px;
 	      line-height: 1.2 ;
 	   }
       footer {
@@ -30,7 +30,6 @@ html, body {
         text-align: center;
         font-size: 12px;
       }
-figure { text-align: center ; }
       figcaption {
 			margin: 0, 0 ;
 			text-align: center ;
