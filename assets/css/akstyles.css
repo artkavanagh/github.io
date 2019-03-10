@@ -1,11 +1,14 @@
 
 html, body {
-	font-family: "Optima", "Myriad Pro", "Trebuchet MS", "Fira Sans", sans-serif;
+	font-family: "Myriad Pro", "Trebuchet MS", "Fira Sans", sans-serif;
         margin: auto;
         padding: 0;
         color: Yellow ;
         background-color: #0892d0 ;
         max-width: 632px ;
+      }
+      h1, h2, h3 {
+	 font-family: "Optima", "Myriad Pro", "Trebuchet MS", "Fira Sans", sans-serif;
       }
       p {
         margin-bottom: 27px;
@@ -21,9 +24,6 @@ html, body {
 	      font-size: 16px;
 	      line-height: 1.2 ;
 	   }
-      img {
-        max-width: 800px;
-      }
       footer {
         padding: 0 20px;
         margin: 50px 0;
