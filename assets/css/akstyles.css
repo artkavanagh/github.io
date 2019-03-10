@@ -30,8 +30,11 @@ html, body {
         text-align: center;
         font-size: 12px;
       }
-      figure {
-	 float: center ;
+      img {
+	    display: block ;
+	    margin-left: auto ;
+	    margin-right: auto ;
+	    width: 50% ;
 	}
       figcaption {
 			margin: 0, 0 ;
