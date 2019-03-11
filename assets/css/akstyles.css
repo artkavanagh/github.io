@@ -9,7 +9,7 @@ html, body {
       }
 h1, h2, h3 {
 	font-family: "Optima", "Myriad Pro", "Trebuchet MS", "Fira Sans", sans-serif;
-		}
+	}
       p {
         margin-bottom: 27px;
         font-size: 20px;
@@ -24,22 +24,22 @@ h1, h2, h3 {
 	      font-size: 16px;
 	      line-height: 1.2 ;
 	   }
-		p.piccredit {
-		      margin: 0 ;
-		      text-align: center;
-		      font-size: 13px ;
-		      }
-		header {
-			float: left;
-		   margin: 8px 32px ;
-		   text-align: left ;
-			    }
-	   a {
-					text-decoration: none ;
-				}
-	  footer {
-        padding: 0 20px;
-        margin: 50px 0;
-        text-align: center;
-        font-size: 12px;
+	p.piccredit {
+	      margin: 0 ;
+	      text-align: center;
+	      font-size: 13px ;
+          }
+	header {
+		float: left;
+		margin: 8px 32px ;
+		text-align: left ;
+		}
+	a {
+		text-decoration: none ;
+		}
+	footer {
+        	padding: 0 20px;
+	        margin: 50px 0;
+        	text-align: center;
+	        font-size: 12px;
       }
