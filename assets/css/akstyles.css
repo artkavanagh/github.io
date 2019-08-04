@@ -11,22 +11,20 @@ h1, h2, h3 {
 }
 p {
         margin-bottom: 27px;
-        font-size: 20px;
+        font-size: 1 rem;
         line-height: 1.6;
 }
 p.intro {
 	font-style: italic ;
-	font-size: 16px ;
 }
 blockquote {
 	margin-bottom: 32px ;
-	font-size: 16px;
 	line-height: 1.2 ;
 }
 p.piccredit {
 	margin: 0 ;
 	text-align: center;
-	font-size: 13px ;
+	font-size: 0.7 rem ;
 }
 header {
 	margin-top: 32px ;
@@ -43,12 +41,12 @@ footer {
        	padding: 0 20px;
         margin: 50px 0;
        	text-align: center;
-        font-size: 12px;
+        font-size: 0.7 rem;
 }
 li {
 	margin-bottom: 16px ;
 }
 p.social {
-	font-size: 12px ;
+	font-size: 0.7 rem ;
 	text-align: right ;
 }
