@@ -10,8 +10,7 @@ h1, h2, h3 {
 	font-family: "Optima", "Franklin Gothic Medium", "Myriad Pro", "Trebuchet MS", "Fira Sans", sans-serif;
 }
 p {
-	text-indent: 3em;
-        margin-bottom: 0;
+        margin-bottom: 27px;
         font-size: 20px ;
         line-height: 1.6;
 }
