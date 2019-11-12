@@ -11,7 +11,7 @@ h1, h2, h3 {
 }
 p {
         text-indent: 2em ;
-	margin-bottom: -10px !important ;
+	margin-bottom: 0 !important ;
 	margin-top: 0 !important ;
         font-size: 20px ;
         line-height: 1.6;
@@ -23,7 +23,7 @@ p.intro {
 }
 p.unindent {
 	text-indent: 0 ;
-	margin-bottom: 1.5em ;
+	margin-top: 1.5em ;
 	
 }
 blockquote {
