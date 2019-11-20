@@ -1,9 +1,9 @@
-﻿{
+{
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Art Kavanagh personal site",
 	"home_page_url": "https://www.artkavanagh.ie/",
 	"feed_url": "https://www.artkavanagh.ie/feed.json",
-	"description": "Writing by Art Kavanagh � Fiction, criticism, book discussion, opinion and comment.",
+	"description": "Writing by Art Kavanagh — Fiction, criticism, book discussion, opinion and comment",
 	"items": [
 		{
 			"id": "Sally-Rooney-short-stories",
