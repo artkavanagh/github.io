@@ -1,0 +1,29 @@
+﻿html, body {
+	margin: auto;
+        padding: 0;
+	color: Honeydew ;
+        background-color: PaleVioletRed ;
+	max-width: 42em ;
+	}
+h1, h2, h3 {
+	font-family: "Optima", "Myriad Pro", "Trebuchet MS", "Fira Sans", sans-serif;
+	margin-bottom: 24px ;
+	}
+p, blockquote, details {
+	font-family: "Minion Pro", "Palatino Linotype", "Palatino LT STD", "Georgia", "Constantia", serif ; }
+p {
+	text-indent: 2em ;
+	margin-top: 0 ;
+	margin-bottom: 0 ;
+	padding: 0 ;
+	font-size: 20px ;
+	}
+p.continue {
+	text-indent: 0 ;
+	}
+blockquote {
+	font-size: 18px ;
+	}
+h1 {
+	text-align: center ;
+	}
