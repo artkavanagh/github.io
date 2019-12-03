@@ -32,6 +32,10 @@ blockquote {
 h1 {
 	text-align: center ;
 	}
+aside {
+	position: absolute ;
+	right: 150px ;
+	}
 .lang {
 	font-style: italic ;
 	}
