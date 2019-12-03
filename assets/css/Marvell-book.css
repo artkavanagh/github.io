@@ -35,6 +35,7 @@ h1 {
 aside {
 	position: absolute ;
 	right: 150px ;
+	font-family: "Minion Pro", "Palatino Linotype", "Palatino LT STD", "Georgia", "Constantia", serif ;
 	}
 .lang {
 	font-style: italic ;
