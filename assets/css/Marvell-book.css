@@ -3,7 +3,7 @@ html, body {
         padding: 0;
 	color: Honeydew ;
         background-color: PaleVioletRed ;
-	max-width: 42em ;
+	max-width: 46em ;
 	}
 h1, h2, h3 {
 	font-family: "Optima", "Myriad Pro", "Trebuchet MS", "Fira Sans", sans-serif;
@@ -35,5 +35,5 @@ h1 {
 aside {
 	position: absolute ;
 	right: 2em ;
-	max-width: 320px ;
+	max-width: 16em ;
 	}
