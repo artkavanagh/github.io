@@ -41,7 +41,10 @@ a {
 	color: brown ;
 	}
 @media screen and (max-width: 768px){
-	aside{
+	aside {
 		display: none ;
+	}
+	body {
+		margin-left: 1em ;
 	}
 }
