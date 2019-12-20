@@ -40,3 +40,8 @@ aside {
 a {
 	color: brown ;
 	}
+@media(max-width: 768px){
+	aside{
+		display:hidden ;
+	}
+}
