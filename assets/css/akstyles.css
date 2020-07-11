@@ -1,5 +1,5 @@
 html, body {
-	font-family: "Avenir Next", "Segoe UI Semilight", "Trebuchet MS", "Fira Sans", sans-serif;
+	font-family: "Trebuchet MS", "Avenir Next", "Segoe UI Semilight", "Fira Sans", sans-serif;
         margin: auto;
         padding: 0;
         color: Yellow ;
@@ -7,7 +7,7 @@ html, body {
         max-width: 40em ;
 }
 h1, h2, h3 {
-	font-family: "Optima", "Candara", "Avenir Next", "Segoe UI Semilight", "Trebuchet MS", "Fira Sans", sans-serif;
+	font-family: "Optima", "Candara", "Trebuchet MS", "Avenir Next", "Segoe UI Semilight", "Fira Sans", sans-serif;
 }
 p {
         margin-bottom: 27px;
