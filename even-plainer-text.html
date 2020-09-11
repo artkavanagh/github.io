@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Even plainer text</title>
+	<link rel="stylesheet" type="text/css" href="https://www.artkavanagh.ie/assets/css/akstyles.css" />
+	<style>
+		table { table-layout: fixed ; }
+		table, th, td {
+			text-align: left ;
+			vertical-align: top ;
+		}
+	</style>
+	<meta name="description" content="A suggestion for writing a basically structured document in plain (i.e. UTF-8) text without reference to an external style sheet and with as little markup as possible.">
+<meta name="author" content="Art Kavanagh"></head>
+<body>
+<header>
+<h1>Art Kavanagh</h1>
+<p><a href="https://www.artkavanagh.ie/">Criticism, fiction and other writing</a></p>
+<hr>
+</header>
+<h1>Even plainer text</h1>
+
+<p class="intro">Some further thoughts, arising from my recent post, “<a href="https://www.artkavanagh.ie/writing-plain-text.html">Writing plain text</a>”.</p>
+
+<p>Almost the first thing I posted after I registered my own domain name and set up a static site on GitHub Pages was <a href="https://www.artkavanagh.ie/HTML-Markdown.html">this piece comparing Markdown and HTML</a>. At the time, I was thinking of HTML as cumbersome, full of redundancies and awkward to write, and was in the first flush of early enthusiasm about Markdown, which I had been aware of but hadn’t really used up to that point.</p>
+
+<p>After a few months using GitHub Pages, I decided that it would be easier to write my posts in simple HTML with a rudimentary CSS style sheet than to learn how to modify Jekyll themes. Since then, I’ve been writing all the posts on this site in HTML. It works but there are some little things that irritate me about it.</p>
+
+<p>Most of the tags used in a normal post are going to be for paragraph (&lt;p&gt;) elements, so I just forget about these for the time being and type paragraphs of text separated by blank lines, as in Markdown. For most other things — headings, blockquotes, emphasis, citing book and journal titles, lists, notes (i.e. details/summary), I type the HTML tags out in full. None of these is common enough to make that a problem. Same with links and images: with these, I prefer the HTML approach to Markdown’s, even though it requires me to type straight double quotes (another redundancy: Markdown does fine without them) while I usually write with “smart” quotes turned on.</p>
+
+<p>The resulting document should be valid Markdown, although it doesn’t contain  any Markdown syntax. Once I’ve got a complete draft, I change the extension from .txt to .md (if necessary) and open my document in iA Writer, which I use for no other purpose than to convert Markdown to HTML! (I bought the iPad version to try it out, so I might as well do something with it, even if not actual <em>writing</em>.)</p>
+
+<p>I then edit the HTML document in a text editor: adding a stylesheet link and meta description — and occasionally some embedded styles — to the head, and pasting in my standard header at the top of the body.</p>
+
+<p>You may be asking why I don’t use Markdown for the headings, blockquotes, emphasis etc? It would work equally well. The reason is that having written in Markdown regularly over a period of months, I realized that I’m not very enthusiastic about it. The principle of avoiding HTML’s redundancies appeals to me; the methods chosen don’t. They’re expressly based on plain text email conventions: underscores for emphasis, greater-than to begin a block quote, a blank line to indicate a new paragraph.</p>
+
+<p>In the late 1990s and early 2000s, I used to subscribe to the Milton-L mailing list, a discussion group conducted by email. The thing about Milton-L that used to drive me mad was that there was no way to distinguish the title of a book or journal from the surrounding text. Some people used underscores but I always thought that was an unsatisfactory workaround.</p>
+
+<p>So, that’s why, instead of Markdown, I ended up with my current approach: writing mainly plain text with some HTML tags. It works perfectly well if I want (as I usually do) to produce a HTML document to be posted on my site. But it’s getting tantalizingly close to the ideal state of being able to do everything as plain text.</p>
+
+<p>One reason why I avoided HTML for many years was that when I first used it, I had to type a lot of entities to represent non-ASCII characters: &amp;rdquo;, &amp;apos;, &amp;hellip;, &amp;eacute; and &amp;mdash; for example. Typing these was unbelievably disruptive to the flow of the writing. The use of UTF-8 encoding has removed this difficulty. As a result, writing HTML is a much less frustrating experience than it used to be.</p>
+
+<p>As it has become possible to type as plain text nearly all the characters I need, it has seemed somehow redundant to have to rely on an external style sheet or document-type specification for presentation and structure. On the other hand, it seems to me that a lot of the documents I write (e.g. <a href="https://www.artkavanagh.ie/protected.txt">a short story</a>) don’t have a very complex visual structure. So, I began to wonder if it wouldn’t be possible to do the whole thing in text, without any additional markup.</p>
+
+<p>The elements that I typically might need to use in a document are these (with, in the third column, my suggestions as to how they might be indicated using only plain text):</p>
+
+<table>
+	<colgroup>
+		<col width="25%">
+		<col width="20%">
+		<col width="55%">
+	</colgroup>
+<tr><th>Element</th><th>HTML</th><th>Plain text equivalent</th></tr>
+<tr><td>Title</td><td>&lt;title&gt;</td><td>ALL UPPERCASE</td></tr>
+<tr><td>First level heading</td><td>&lt;h1&gt;</td><td>Use Title Case if You Don’t Mind</td></tr>
+<tr><td>Second level heading</td><td>&lt;h2&gt;</td><td>Short line (no more than 40 characters), with only one line break at the end; text following the line break is treated as a normal paragraph</td></tr>
+<tr><td>Normal paragraph</td><td>&lt;p&gt;</td><td>Double line break at the end (unless it’s the last paragraph in the document)</td></tr>
+<tr><td>Block quote</td><td>&lt;blockquote&gt;</td><td>Separate from the preceding and succeeding paragraphs with 3 line breaks rather than 2</td></tr>
+<tr><td>Line break</td><td>&lt;br&gt;</td><td>A line break (I don’t put breaks in the middle of paragraphs unless a break is intended, and I invariably have word-wrap turned on)</td></tr>
+<tr><td>Emphasis</td><td>&lt;em&gt;</td><td>Try to make it clear from the context when emphasis is intended; if you absolutely, positively must emphasize a word or phrase, put an asterisk immediately before and after it: underscores look messier and less “finished” than asterisks</td></tr>
+<tr><td>Citaton</td><td>&lt;cite&gt;</td><td>There’s no way to avoid some markup for this one, I’m afraid: I suggest using braces (curly brackets) as in Henry Fielding, {The History of Tom Jones, a Foundling} or {The New Yorker}</td></tr>
+<tr><td>Numbered list</td><td>&lt;ol&gt;</td><td>See list item below</td></tr>
+<tr><td>List item</td><td>&lt;li&gt;</td><td>Just put a number at the start of the line: if there are no more than 5 or 6 items, it’s easy to keep track of the numbers; I don’t use bulleted lists very much (I’ve never seen the point), but a suitable nonalphanumeric character will be fine</td></tr>
+<tr><td>Expandable note</td><td>&lt;details&gt; and &lt;summary&gt;</td><td>Where possible avoid notes, which are a distraction that at best disrupt the reading experience; (instead, try to incorporate references, asides etc into the text using parentheses if necessary)</td></tr>
+</table>
+
+<p>That leaves links and images. To take the latter first, you’re dealing with a text file: any images are necessarily going to be separate. I’d be inclined just to put something in the text like “Figure 1: The author’s family tree” and name the image files to make it clear which goes where. As for links, well, again this is meant to be text, not hypertext. If you’re referring to something the reader can easily search for on Google, DDG, Bandcamp or a relevant app store etc, don’t bother with a link. Your reader is not a helpless infant. If you find it necessary to include a URL, the convention of surrounding it with angle brackets will work just as well here as anywhere else. (I may have more to say about hypertext and links in a follow-up post.)</p>
+
+<p>This approach won’t be ideal for everything, of course. If you’re writing a web page, you might as well go full HTML, with links, images, headers, notes and so on. If you’re producing academic writing, you’re going to need notes and a more robust approach to citation than I recommend here. But for things like email newsletters, or documents that might be opened, read and edited on any system, I believe that my suggestion has something to recommend it. I’m certainly going to try it out myself.</p>
+
+<p>Posted by <a href="https://www.artkavanagh.ie/">Art</a> on 11-Sep-2020</a>.</p>
+</body>
+</html>
