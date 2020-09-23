@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Where to now for RSS?</title>
+	<link rel="stylesheet" type="text/css" href="https://www.artkavanagh.ie/assets/css/akstyles.css" />
+	<meta name="description" content="It’s nice to be using RSS again but I still have some reservations about it. Here are my suggestions for incorporating its most essential features into HTML and the browser.">
+<meta name="author" content="Art Kavanagh">
+
+</head>
+<body>
+<header>
+<h1>Art Kavanagh</h1>
+<p><a href="https://www.artkavanagh.ie/">Criticism, fiction and other writing</a></p>
+<hr>
+</header>
+<h1>Where to now for RSS?</h1>
+
+<p>I stopped using RSS around the same time that Google closed Google Reader, but not <em>because</em> of that. As far as I remember, I hadn’t really been aware of Google Reader till I read the announcement of its end. I’ve never really liked web-based readers or used them much: I preferred an approach that allowed me to read feeds in the browser (as both Safari and IE11 did) and it was when Safari dropped that feature that I gave up on feeds, a decision reinforced by the fact that I was then relying more on Twitter to let me know when updates had been posted.</p>
+
+<p>Then, two years ago, I read that Brent Simmons had resumed ownership of NetNewsWire and was working on a new version. At the time I was without a Mac, so I decided to try Reeder 3 on iPad, while waiting for NetNewsWire to be released on that platform. I later upgraded to Reeder 4 and I’m now happily using the iPad version of NetNewsWire, without syncing. It’s nice to be back.</p>
+
+<p>I have some reservations about RSS, though. First, I suppose, is the fact that it’s in XML, which I’ve always thought to be unnecessarily complex for many (obviously not all) of the uses it’s been put to. Brent Simmons (again) and Manton Reece have demonstrated this point by creating the specification for <a href="https://www.jsonfeed.org/">JSON Feed</a>, which is a lot more straightforward. My own site consists of static web pages (including this post) from which I can’t automatically generate a feed, so I’ve been offering just a JSON Feed, which I update by hand whenever I post something new.</p>
+
+<p>I include the full text of the relevant web page as HTML, something that is allowed for in the specification. This has brought it home to me that there’s a degree of duplication, which should ideally be avoided.</p>
+
+<p>My second reservation is that the RSS approach depends on individual readers <em>following</em> the feeds of sites they want to be updated about. I’m personally <a href="https://www.artkavanagh.ie/following.html">not very taken with the “following” model</a>. It strikes me as too insistent, too FOMO, almost obsessive. I’m not going to read <em>everything</em> that <a href="https://memex.naughtons.org/feed">John Naughton</a> or <a href="https://www.taxresearch.org.uk/Blog/feed/">Richard Murphy</a> posts (probably not even most of it), and if there were an alternative I wouldn’t want to be notified every time they put out something new. On the other hand, I’m even less keen that an algorithm should choose which posts it’s going to tell me about. Experience with Twitter, Facebook and other social media suggests that algorithms really aren’t very good at this. Ideally, I’d like my browser to pop up an unobtrusive notification saying something like “You haven’t visited <a href="https://alanralph.co.uk/feed/">Alan Ralph’s site</a> for a few weeks. There are some new posts. Would you like to take a look?”</p>
+
+<p>The third reservation is that your feed reader presents everything in the same style. If we’re going to read every story in black San Francisco on a white background, why should anybody bother paying attention to what their site looks like? If the design and style are more than just incidental decoration, shouldn’t we be reading the page in its intended setting? (Not everybody would agree with this, of course. On Micro.blog, <a href="https://micro.blog/Miraz/">@Miraz</a> said that she has set her Safari preferences so that <a href="https://micro.blog/Miraz/10297173">sites open in Reader View by default</a>.)</p>
+
+<p>So, I think what I’d like to see is that feeds and updates should be handled by the browser, which will know whenever a page/site is updated. The individual would be able to add URLs to a list of sites to be watched. Ideally, it shouldn’t be necessary for the browser to poll these sites more often than 2 or 3 times a week. Many of the sites on the watch list would be infrequently updated. (That’s why they need to be on the list in the first place.) In those cases, the person should be notified of each update. In the case of busier sites, an occasional reminder should be issued if she hasn’t visited the site in a while.</p>
+
+<p>If the individual decides to visit the updated page, it should be displayed in the browser in the usual way. Journalists and others who need to keep on top of a rapidly changing field would still need feed readers but the rest of us would, I think, find it more convenient to be reminded of updates in our browsers.</p>
+
+<p>Similar approaches have been tried before. Mozilla discontinued Live Bookmarks in Firefox, presumably because the feature wasn’t used enough to justify the cost of maintaining it. In any case, it was effectively an RSS feed reader, whereas what I’m suggesting would mean incorporating feed elements directly into the web page.</p>
+
+<p>There’s also Kicks Condor’s browser extension, <a href="https://fraidyc.at">Fraidy Cat</a>, which is a lot of fun but, again, relies in part on RSS feeds and anyway looks like a (brilliant) browser extension rather than a feature that is wholly integrated into the browser.</p>
+
+<p>The difference between what I’m suggesting and the current system of notifications is that notifications are initiated by the publisher, not the reader. In my proposal, the individual would choose in her own good time what to add to the watch list, whereas under the present system the site asks for permission to show notifications, perhaps at a moment when she doesn’t want to think about that because she’s busy trying to read a post. I don’t believe I’ve <em>ever</em> consented to being sent notifications by a website, yet I’m clearly amenable to the idea of being told about updates, as I’m following 50 feeds in NetNewsWire.</p>
+
+<p>Another problem with notifications is that they’re often offered by frequently updated sites, though the feature would obviously be more useful for sites that change only occasionally.</p>
+
+<p>Ultimately, I suppose my point is that it seems unnecessary that HTML and RSS should be two different things. I dare say there’s a good reason why they have to remain separate, but from my (nondeveloper) point of view, it appears to make sense to incorporate the essential features of the latter into the former.</p>
+
+<p>Posted by <a href="https://www.artkavanagh.ie/">Art</a> on 23-Sep-2020.</p>
+</body>
+</html>
