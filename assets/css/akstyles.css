@@ -62,5 +62,5 @@ img.centre {
  
 }
 .language {
-	font-style: italic ;
+	font-style: italic !important ;
 }
