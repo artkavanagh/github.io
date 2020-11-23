@@ -17,6 +17,9 @@ p {
 p.intro {
 	font-style: italic ;
 }
+p.outlink {
+	font-style: italic ;
+}
 blockquote {
 	margin-bottom: 32px ;
 	font-size: 18px ;
