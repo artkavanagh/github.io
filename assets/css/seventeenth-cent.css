@@ -21,6 +21,10 @@ p.intro {
 	text-indent: 0 ;
 	margin-bottom: 1.5em !important ;
 }
+p.outlink {
+	font-style: italic ;
+	text-indent: 0 ;
+}
 p.unindent {
 	text-indent: 0 ;
 	margin-top: 1.5em !important ;
