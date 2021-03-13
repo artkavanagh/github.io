@@ -1,6 +1,6 @@
 html, body {
 	font-family: "Avenir Next", "Segoe UI", "Fira Sans", sans-serif;
-        margin: auto;
+        margin-left: 33m ;
         padding: 0;
         color: Yellow ;
         background-color: #0892d0 ;
@@ -33,7 +33,7 @@ p.piccredit {
 header {
 	margin-top: 32px ;
 	margin-bottom: 32px ;
-	margin-left: -60px ;
+	margin-left: -2em ;
 	padding: 0 ;
 	text-align: left ;
 }
