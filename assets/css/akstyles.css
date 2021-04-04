@@ -68,8 +68,8 @@ img.centre {
 	font-style: italic !important ;
 }
 figure {
-	margin-left: 0em !important ;
+	margin-left: 0em ;
 }
-caption {
-	.text-align: center !important ;
+figcaption {
+	.text-align: center ;
 }
