@@ -67,3 +67,9 @@ img.centre {
 .language {
 	font-style: italic !important ;
 }
+figure {
+	margin-left: 0em !important ;
+}
+caption {
+	.text-align: center ;
+}
