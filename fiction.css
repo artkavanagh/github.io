@@ -1,0 +1,79 @@
+html, body {
+	font-family: "Avenir Next", "Segoe UI", "Fira Sans", sans-serif;
+        margin-left: 5em ;
+        padding: 0;
+        color: #CB6161 ;
+        background-color: BlanchedAlmond ;
+        max-width: 45em ;
+} 
+h1, h2, h3 {
+	font-family: "Optima", "Candara", "Avenir Next", "Segoe UI", "Fira Sans", sans-serif;
+}
+p {
+        margin-bottom: 27px;
+        font-size: 20px ;
+        line-height: 1.6;
+}
+p.intro {
+	font-style: italic ;
+}
+p.outlink {
+	font-style: italic ;
+}
+blockquote {
+	margin-bottom: 32px ;
+	font-size: 18px ;
+	line-height: 1.3 ;
+}
+p.piccredit {
+	margin: 0 ;
+	text-align: center;
+	font-size: 16px ;
+}
+header {
+	margin-top: 32px ;
+	margin-bottom: 32px ;
+	margin-left: -3em ;
+	padding: 0 ;
+	text-align: left ;
+}
+a {
+	color: LemonChiffon ;
+	text-decoration: underline ;
+}
+footer {
+       	padding: 0 20px;
+        margin: 40px 0;
+       	text-align: center;
+        font-size: 13px ;
+}
+li {
+	margin-bottom: 16px ;
+}
+details {
+		font-size: 18px ;
+}
+p.social {
+	font-size: 13px ;
+	text-align: right ;
+}
+img.centre {
+		
+		display: block ;
+		margin-left: auto ;
+		margin-right: auto ;
+ 
+}
+.language {
+	font-style: italic !important ;
+}
+figure {
+	margin-left: 0em ;
+}
+figcaption {
+	text-align: center ;
+}
+.foot {
+	font-style: italic ;
+	margin-bottom: 0em ;
+}
