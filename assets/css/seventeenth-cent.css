@@ -24,6 +24,7 @@ p.intro {
 p.outlink {
 	font-style: italic ;
 	text-indent: 0 ;
+	margin-top: 1.5em !important ;
 }
 p.unindent {
 	text-indent: 0 ;
