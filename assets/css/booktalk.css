@@ -8,6 +8,14 @@ html, body, header, footer {
 h1, h2, h3 {
 	font-family: "Optima", "Candara", "Avenir Next", "Segoe UI", "Fira Sans", sans-serif;
 }
+p {
+        margin-bottom: 27px;
+        font-size: 20px ;
+        line-height: 1.6;
+}
+p.intro {
+	font-style: italic ;
+}
 blockquote {
   	color: BlanchedAlmond !important ;
  	font-style: normal !important ; 
