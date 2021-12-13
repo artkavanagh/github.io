@@ -16,7 +16,10 @@ p {
 p.intro {
 	font-style: italic ;
 }
-p.issueno { font-size: 85% ; }
+p.issueno { 
+	font-size: 85% ;
+	margin-bottom: 18px ;
+}
 blockquote {
   	color: BlanchedAlmond !important ;
  	font-style: normal !important ; 
