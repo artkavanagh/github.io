@@ -21,6 +21,13 @@ blockquote {
  	font-style: normal !important ; 
   	font-size: 110% ;
 }
+header {
+	margin-top: 32px ;
+	margin-bottom: 32px ;
+	margin-left: 0em ;
+	padding: 0 ;
+	text-align: left ;
+}
 a:link {
 	color: LemonChiffon !important  ;
 	text-decoration: none ;
