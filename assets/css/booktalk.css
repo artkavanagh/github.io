@@ -1,18 +1,17 @@
-html, body, header, footer {
+html, body {
 	font-family: "Avenir Next", "Segoe UI", "Fira Sans", sans-serif;
         background-color: #195F74  ;
 		color: BlanchedAlmond ;
 		margin-left: 5em ;
+	max-width: 46em ;
 }
 h1, h2, h3 {
 	font-family: "Optima", "Candara", "Avenir Next", "Segoe UI", "Fira Sans", sans-serif;
-	max-width: 46em ;
 }
 p {
         margin-bottom: 27px;
         font-size: 20px ;
         line-height: 1.6;
-	max-width: 46em ;
 }
 p.intro {
 	font-style: italic ;
@@ -21,7 +20,6 @@ blockquote {
   	color: BlanchedAlmond !important ;
  	font-style: normal !important ; 
   	font-size: 110% ;
-	max-width: 46em ;
 }
 a:link {
 	color: LemonChiffon !important  ;
