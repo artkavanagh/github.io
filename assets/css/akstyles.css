@@ -84,3 +84,7 @@ code {
 	font-style: italic ;
 	margin-bottom: 0em ;
 }
+.plainback {
+	background-color: #FFFFFF ;
+	color: #000018 ;
+}
