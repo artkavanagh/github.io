@@ -73,6 +73,13 @@ figure {
 figcaption {
 	text-align: center ;
 }
+code {
+	font-family: "Menlo", "Consolas", "Lucida Console". "Roboto Mono", "Fira Mono", "Courier",  monospace ;
+	font-size: 1rem ;
+	background-color: #FFFFFF ;
+	color: #CB6161 ;
+	margin-left: 6em ;
+}
 .foot {
 	font-style: italic ;
 	margin-bottom: 0em ;
