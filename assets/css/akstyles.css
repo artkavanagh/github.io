@@ -74,6 +74,7 @@ figcaption {
 	text-align: center ;
 }
 code {
+	display: block ;
 	font-family: "Menlo", "Consolas", "Lucida Console", "Roboto Mono", "Fira Mono", "Courier",  monospace ;
 	font-size: 1.1rem ;
 	white-space: pre ;
