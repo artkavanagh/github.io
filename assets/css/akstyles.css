@@ -75,9 +75,7 @@ figcaption {
 }
 code {
 	font-family: "Menlo", "Consolas", "Lucida Console". "Roboto Mono", "Fira Mono", "Courier",  monospace ;
-	font-size: 1rem ;
-	background-color: #FFFFFF !important ;
-	color: #000018 !important ;
+	font-size: 1.1rem ;
 	margin-left: 6em ;
 }
 .foot {
