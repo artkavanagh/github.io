@@ -1,0 +1,32 @@
+{
+    "mybooks": [
+        {
+            "key": "Fury",
+            "description": "I’ve written about Fury in the issue of my newsletter dated 5-Jan-2022."
+        },
+        {
+            "key": "Oblivion",
+            "description": "I’ve written about Oblivion and the other titles by Peter Abrahams in the issue of my newsletter dated 22-Dec-2021."
+        },
+        {
+            "key": "Judas 62",
+            "description": "Mission: Impossible meets Smiley’s People. Who said the Cold War is over? Reviewing Box 88, I said it was “a secret, rogue intelligence-and-assassination outfit”. I was wrong: we learn here that they stop short of assassination. Highly enjoyable."
+        },
+        {
+            "key": "I Know What I Saw",
+            "description": "The first-person narrative of a long-term homeless man whose memory is damaged and who is sure he witnessed a murder that can’t have happened when he says it did. The brilliance of the start isn’t maintained."
+        },
+        {
+            "key": "The Buried Giant",
+            "description":  "I liked this better than anything else I’ve read by Ishiguro, including Never Let Me Go. (I haven’t read Klara yet.) I’ll try to write something explaining my reaction but it might take me some time to do so. I intend to reread within 6 months or so."
+        },
+        {
+            "key": "The King’s Evil",
+            "description": "The third in a series set in Restoration London but the first I’ve read. I’m not going to write about it till I’ve read the others. Contemporary with last decade of Marvell’s life, though he isn’t mentioned in this one."
+        },
+        {
+            "key": "A Simple Favour",
+            "description": A book like this, about intrigue, betrayals and bad behaviour, needs a compelling plot, which this doesn’t have. Characters who aren’t as smart, cool or transgressive as they think they are show exactly the combination of stupidity and selfishness you’d expect. Pointless."
+        }
+    ]
+}
