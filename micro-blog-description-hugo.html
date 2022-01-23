@@ -14,44 +14,8 @@
 <hr>
 </header>
 <h1>Adding a description to a Micro.blog post, using Hugo</h1>
-<p><strong>Further update</strong> 22-Jan-2022: In fact, I’m not sure that the method described below will work in practice. It’s fine when I start off with a data (JSON) file containing all the titles and descriptions to date. But it seems that updating the data, by adding the title and description of a new post, may break it. That’s a good enough reason to leave it alone and stick to a manually updated archive page.</p>
-<p><strong>Update, 21-Jan-2022</strong>: Though I’m pleased it worked, I’m not going to be using the method described below for the time being. Instead, I’m going to add a simple Twitter card description that merely refers to the date of the post, and I’ve created an archive page that I’ll update manually whenever I post a new issue (usually every two weeks.</p>
-<p>Micro.blog is based on a static site generator named Hugo, which is powerful and complicated. I knew that Hugo is capable of doing what I want, but I wasn’t sure that I would be capable of <em>getting</em> it to do so. Until a few weeks ago, I had no experience of using Hugo, and I’ve been finding recently that, as I get older, I’m becoming increasingly resistant to learning new tech tricks. But this seemed like it might be worth pursuing, so long as it didn’t take up too much of my time.</p>
-<p>In the end, it took longer than it should have, and than I’d have liked. Essentially, the idea was that, as I posted each issue of the newsletter, I’d add both the post title and a shortish description to a JSON file, &quot;postlist.json&quot;, in the /data/ folder of my micro.blog. I’d add some lines to the &quot;head&quot; template which would cause Hugo to open the JSON file and loop though the various entries, looking for a title that matched that of the post. On finding a match, it would add  a meta tag to the html file for the post, containing the corresponding description.</p>
-<p>It sounds simple enough, because it is, but only for people who know what they’re doing. My problem was that, till it actually started to work, I wasn’t sure I was taking the right approach. I’m sure that Hugo’s error messages are highly informative to someone who understands the system but they’re opaque and intimidating to someone who doesn’t. Eventually, I worked out that I couldn’t simply compare the post title in my data file with the Title of the post: first, I had to convert the latter to a string. There were a few other little hitches of that nature.</p>
-<p>As of now, my data file has just two entries. It looks like this:</p>
-<div class="plainback">
-<code>
-{
-    &quot;posts&quot;: [
-        {
-            &quot;posttitle&quot;: &quot;You’ve got a right to be angry: Salman Rushdie, Fury&quot;,
-            &quot;postdescription&quot;: &quot;Like some of his earlier fiction, notably Midnight’s Children, Salman Rushdie’s novel Fury (2001) is driven by anger. But it’s a more diffuse, less directed anger than in the earlier novel. Something has changed.&quot;
-        },
-        {
-            &quot;posttitle&quot;: &quot;Peter Abrahams’s impaired heroes&quot;,
-            &quot;postdescription&quot;: &quot;Three novels from the mid 2000s by Stephen King’s “favorite American suspense novelist”, featuring protagonists who have the odds stacked against them, even more so than is usual in suspense fiction.&quot;
-        }
-    ]
-}
-</code>
-</div>
-<p>This file will have to be edited manually each time I want to add a new description. And the snippet I’ve included in the head template is this:</p>
-<div class="plainback">
-<code>
-&lbrace;&lbrace; $postlist := site.Data.postlist &rbrace;&rbrace;
-&lbrace;&lbrace; $currentTitle := printf &quot;%s&quot; .Title &rbrace;&rbrace;
-&lbrace;&lbrace; range $postlist.posts &rbrace;&rbrace;
-    &lbrace;&lbrace; if eq .posttitle $currentTitle &rbrace;&rbrace;
-	&lt;meta name=&quot;twitter:description&quot; content=&quot;&lbrace;&lbrace; .postdescription &rbrace;&rbrace;&quot; /&gt;
-    &lbrace;&lbrace; end &rbrace;&rbrace;
-&lbrace;&lbrace; end &rbrace;&rbrace;
-</code>
-</div>
-<p>(There’s a separate snippet that adds the other Twitter card meta tags if the post has a title.) Rather to my amazement, it all seems to work. The next step will be to try to create a page that will automatically include the titles, dates and descriptions (with the permalink to the post) of all my newsletter posts. I’m feeling quite optimistic about that, having got this far.</p>
-<p><strong>Update</strong>, later on 10-Jan-2022: The <a href="https://letter.talkaboutbooks.net/tabarchive/">newsletter archive page</a> didn’t give me any problems and is working. I may need to refine it a bit but there’s no urgency about that.</p>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well, that turned out to be easier than I expected. I’ve now got an automatically generated newsletter archive (based on applying the category “Newsletter” to all posts with titles). I haven’t yet got pagination or separation by date but all in good time.<a href="https://t.co/1lwQrlsPRk">https://t.co/1lwQrlsPRk</a></p>&mdash; Art Kavanagh (@artkavana) <a href="https://twitter.com/artkavana/status/1480552156197494799?ref\_src=twsrc%5Etfw">January 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Posted by <a href="https://www.artkavanagh.ie/">Art</a>, 10-Jan-2022.</p>
+<p><strong>Update, 23-Jan-2022</strong>: I’ve decided to remove this post because I’m not sure it’s useful or even that it will work in the long term. The JSON data file would need to be updated manually for each new post and I think this might break the way the template has worked in testing. Even if it does work, I'm not sure that it has much advantage over <a href="https://letter.talkaboutbooks.net/archive2022">a manually updated archive page</a> which is what I’ll be using for the time being.</p>
+<p>I hope the deletion of this post won’t cause you any inconvenience. If it does, I apologize.</p>
+<p>Posted by <a href="https://www.artkavanagh.ie/">Art</a>, 10-Jan-2022, updated 23-Jan-2022.</p>
 </body>
 </html>
