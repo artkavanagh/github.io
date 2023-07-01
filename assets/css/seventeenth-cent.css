@@ -93,3 +93,6 @@ figure {
 figcaption {
 	text-align: center ;
 }
+.language {
+	font-style: italic !important ;
+}
