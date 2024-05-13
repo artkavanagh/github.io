@@ -88,3 +88,8 @@ code {
 	background-color: #FFFFFF ;
 	color: #000018 ;
 }
+h2.archiveitem {
+	font-family: "Avenir Next", "Segoe UI", "Fira Sans", sans-serif;
+	font-size: 1.2rem ;
+	margin-bottom: 0 ;
+}
