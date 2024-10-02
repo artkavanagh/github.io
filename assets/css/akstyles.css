@@ -93,7 +93,7 @@ h2.archiveitem {
 	font-size: 1.1rem ;
 	margin-bottom: 0 ;
 }
-.archivelink { text-decoration: none; font-size: smaller; font-weight: 400 !important ; }
+.archivelink { text-decoration: none; line-height: 80%; font-size: smaller; font-weight: 400 !important ; }
 .nletter { 
             border-style: solid;
             border-width: 3px;
