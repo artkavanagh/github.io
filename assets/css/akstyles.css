@@ -96,6 +96,7 @@ h2.archiveitem {
 .archivelink { text-decoration: none; font-size: smaller; font-weight: 400 !important ; }
 .nletter { 
             border-style: solid;
-            border-width: medium;
+            border-width: 3px;
             border-radius: 12px;
+	    padding: 4px;
 }
