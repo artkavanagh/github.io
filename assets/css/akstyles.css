@@ -90,6 +90,7 @@ code {
 }
 h2.archiveitem {
 	font-family: "Avenir Next", "Segoe UI", "Fira Sans", sans-serif;
+	font-weight: 600 ;
 	font-size: 1.1rem ;
 	margin-bottom: 0 ;
 }
