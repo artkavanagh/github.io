@@ -100,4 +100,5 @@ h2.archiveitem {
             border-width: 3px;
             border-radius: 12px;
 	    padding: 6px;
+	    line-height: 1.3em;
 }
