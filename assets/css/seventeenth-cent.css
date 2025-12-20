@@ -1,5 +1,5 @@
 ﻿html, body {
-	font-family: "Palatino", "Palatino Linotype", "Palatino LT STD", "Constantia", serif ;
+	font-family: "Calisto MT", "Palatino", "Palatino Linotype", "Palatino LT STD", "Constantia", serif ;
         margin-left: 5em ;
         padding: 0;
         color: HoneyDew ;
@@ -62,7 +62,7 @@ li {
 	margin-bottom: 0 ;
 }
 details {
-	font-family: "Palatino", "Palatino Linotype", "Palatino LT STD", "Constantia", serif ;
+	font-family: "Calisto MT", "Palatino", "Palatino Linotype", "Palatino LT STD", "Constantia", serif ;
 	font-size: 18px ;
 	margin-bottom: 0em ;
 }
